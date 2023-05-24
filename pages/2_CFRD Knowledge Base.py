@@ -6,7 +6,7 @@ import os
 # list csv files in parent directory
 
 
-summaries = pd.read_csv("../summary2.csv")
+summaries = pd.read_csv("summary2.csv")
 # get the base name of file_name
 
 st.title("CFRD Knowledge Base")
