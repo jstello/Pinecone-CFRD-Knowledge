@@ -1,0 +1,10 @@
+pandas
+streamlit
+langchain
+openai
+unstructured[local-inference]
+chromadb
+tiktoken
+tqdm
+PyPDF2
+pinecone-client
